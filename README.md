@@ -1,8 +1,8 @@
 # Demo-GIT
 learning Git and Github and commands like clone, status, init etc
 
-#Teacher 
+# Teacher 
 Shradha 
 
-#student 
+# student 
 Alok Kumar Gupta
